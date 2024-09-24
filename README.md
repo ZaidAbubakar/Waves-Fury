@@ -1,1 +1,2 @@
 # Waves-Fury
+Game Structure
